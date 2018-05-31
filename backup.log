@@ -1,0 +1,27 @@
+#1527311608 Disk /dev/sda - 320 GB / 298 GiB - CHS 38913 255 63
+ 1 : start=     2048, size= 16877568, Id=82, P
+ 2 : start= 16879616, size=   204800, Id=07, *
+ 3 : start= 17086462, size=608055298, Id=05, E
+ 5 : start= 17086464, size=102193152, Id=83, L
+ 6 : start=119279616, size=375351296, Id=05, X
+ 6 : start=119281664, size=375349248, Id=07, L
+ 7 : start=494630912, size=130510848, Id=05, X
+ 7 : start=494632960, size=130508800, Id=07, L
+#1527311628 Disk /dev/sda - 320 GB / 298 GiB - CHS 38913 255 63
+ 1 : start=     2048, size= 16877568, Id=82, P
+ 2 : start= 16879616, size=   204800, Id=07, *
+ 3 : start= 17086462, size=608055298, Id=05, E
+ 5 : start= 17086464, size=102193152, Id=83, L
+ 6 : start=119279616, size=375351296, Id=05, X
+ 6 : start=119281664, size=375349248, Id=07, L
+ 7 : start=494630912, size=130510848, Id=05, X
+ 7 : start=494632960, size=130508800, Id=07, L
+#1527343493 Disk /dev/sda - 320 GB / 298 GiB - CHS 38913 255 63
+ 1 : start=     2048, size= 16877568, Id=82, P
+ 2 : start= 16879616, size=   204800, Id=07, *
+ 3 : start= 17086462, size=608055298, Id=05, E
+ 5 : start= 17086464, size=102193152, Id=83, L
+ 6 : start=119279616, size=375351296, Id=05, X
+ 6 : start=119281664, size=375349248, Id=07, L
+ 7 : start=494630912, size=130510848, Id=05, X
+ 7 : start=494632960, size=130508800, Id=07, L
